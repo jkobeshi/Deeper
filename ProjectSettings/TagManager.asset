@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Can_Press
+  - Breakable
+  - Goal
+  - Unbreakable
+  - Enemy
+  - Coal
+  - Iron
+  - Gold
+  - Diamond
+  - Ruby
+  - Emerald
+  - Jade
+  - AlienOre
+  - Shop
+  - Collectable
+  - SafeZone
+  - UpgradeObject
+  - light_upgrade
+  - sfx_slider
+  - play_game_btn
+  - EngineHum
+  - Light Beam
+  - Mine Radius
+  - PlayerDrill
+  - laser
+  - Dirt2
+  - destroy_on_diamond
+  - build_on_diamond
+  - Torch
+  - CashPickup
+  - WormHead
+  - onWormKill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Solid
+  - Water
+  - UI
+  - lit
+  - BoundaryBox
+  - Under_background
+  - Enemy Light
+  - Light Beam
+  - Mine Layer
+  - dead_npc
+  - Lab Cam
+  - No Fly Zone
+  - Enemy
+  - Lava
+  - Fire Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1958038133
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: enemies
+    uniqueID: 4072195717
+    locked: 0
+  - name: blocks
+    uniqueID: 1399252659
+    locked: 0
+  - name: UI
+    uniqueID: 2697937775
+    locked: 0

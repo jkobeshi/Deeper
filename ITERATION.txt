@@ -1,0 +1,9 @@
+We received two major pieces of feedback: that there is a major lack of guidance, and
+that the game is in general too hard and confusing. We Added a basic tutorial area to
+our level, and incorporated guidance as part of required brief dialogue with an NPC.
+We also added videos to the shop that showcase what each item/upgrade does. The title
+screen also shows how the radar works. Hopefully added guidance addresses the difficulty,
+but we also raised the player's default battery capacity, made the radar cheap and easily
+accessible from the start, made underground batteries more plentiful, and added upgrades
+to the battery to make it last longer. We also removed enemies that were unnoticable
+and would kill the player unfairly.

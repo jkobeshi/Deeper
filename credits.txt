@@ -1,0 +1,72 @@
+Font:
+https://fontlibrary.org/en/font/pixel-operator
+by ytxmobile
+
+A* AI Algorithm:
+https://arongranberg.com/astar/front
+by https://arongranberg.com/astar/front
+
+Expanding circle radar line core logic:
+https://www.codinblack.com/how-to-draw-lines-circles-or-anything-else-using-linerenderer/
+
+Sonar radar noise:
+https://freesound.org/people/infobandit/sounds/28693/
+-- CC license.
+Edited to have a slightly lower frequency
+
+Main Scene music:
+https://pixabay.com/music/sneaky-the-stillness-of-winter-4192/
+
+Title Screen music:
+https://pixabay.com/music/ambient-caves-of-dawn-10376/
+
+Bite Sound:
+https://freesound.org/people/OllieBacon/sounds/517147/
+
+Battery Up Sound:
+https://freesound.org/people/Eschwabe3/sounds/460132/
+
+Shop Booting Sound:
+https://freesound.org/people/Breviceps/sounds/452998/
+
+Menu Change Sound:
+https://freesound.org/people/Leszek_Szary/sounds/146722/
+
+Menu Select Sound:
+https://freesound.org/people/victorium183/sounds/476816/
+
+2d Particle Sprites:
+https://www.youtube.com/watch?v=_z68_OoC_0o
+
+ScreenShake Code:
+https://www.youtube.com/watch?v=8PXPyyVu_6I
+
+Drill Sounds/Drill Breaking Sound/Idle Engine Sound/Booster Sound
+https://elements.envato.com/sound-effects
+
+Power Down sound:
+https://freesound.org/people/noirenex/sounds/159399/
+
+Shock Stun Sound:
+https://freesound.org/people/humanoide9000/sounds/422440/
+
+Shield Sound:
+https://freesound.org/people/MortisBlack/sounds/385051/
+
+Mine Tick Sound:
+https://freesound.org/people/ironcross32/sounds/582905/
+
+Explosion Sound:
+https://freesound.org/people/deleted_user_3544904/sounds/191694/
+
+Laser Beam Sound:
+https://freesound.org/people/SamsterBirdies/sounds/470903/
+
+Collecting Money:
+https://freesound.org/people/KaysonArgyle/sounds/547603/
+
+Worm Hurt Sound:
+https://mixkit.co/free-sound-effects/monster/
+
+Boss Music:
+https://pixabay.com/music/choir-cinematic-soundtrack-monk-cathedral-chant-877/

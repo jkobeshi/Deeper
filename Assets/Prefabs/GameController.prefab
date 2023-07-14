@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5944063595642572809
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4518254744568775241}
+  - component: {fileID: 6957930068595869576}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4518254744568775241
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5944063595642572809}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6957930068595869576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5944063595642572809}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24c98006e4cb7e54b8c8e4d87ba0cb63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Reloading: 0
+  gameOver: 0
+  scene_change_object: {fileID: 0}
+  Win: 0
+  shield_health: 0
+  shield_max: 0
+  blood: {fileID: 8442938333339489855, guid: 011b4c6a06324f74881c6086d9babdee, type: 3}
+  shield_break: {fileID: 8300000, guid: 55f6c880c957223438682e70960ea0e6, type: 3}
+  mine_prefab: {fileID: 7241839573412357800, guid: ebdf6db14f776ab4a9a0228aa73cc3e9, type: 3}
+  mine_two_prefab: {fileID: 7241839573412357800, guid: 3a6773e91d83b4a298ce72f140744d6b, type: 3}
+  battery_prefab: {fileID: 7985510412100968995, guid: 17351bbff17fbd94cb401b8f39a81298, type: 3}
+  CashPickup: {fileID: 8099181188687682465, guid: 5eb46516d37e97e40bffa5b481408b7e, type: 3}
+  DeathOverlayCanvas: {fileID: 3201771812154964653, guid: 2ca53da7c338fd044951aaf59ccd5964, type: 3}
